@@ -126,17 +126,15 @@ div.locations_idv {
 
 /* Footer Section */
 
-div.footer {
+div.contact {
   height: 200px;
 }
 div.copyright {
   margin-left: 20px;
-  margin-top: 20px;
+  margin-top: 40px;
   text-align: left;
-  height: 100px;
+  height: 40px;
   width: 100%;
   position: relative;
   top: 69px;
-  display: flex;
-  align-items: flex-end;
 }
